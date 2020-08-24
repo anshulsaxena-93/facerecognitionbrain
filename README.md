@@ -9,6 +9,8 @@
 * Add ImageLinkForm css for styling and add honey-comb css patttern from [css3 patterns](https://leaverou.github.io/css3patterns/#honeycomb).
 * Create Rank component.
 * Add particles to the backgroud of App using [Particle.js](https://vincentgarreau.com/particles.js/) & [React particles library](https://www.npmjs.com/package/react-particles-js).
+* Create the state in App.js for input.
+* Create FaceRecognition component and display image using API from [clarifi.com](https://docs.clarifai.com/api-guide/predict/images).
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
