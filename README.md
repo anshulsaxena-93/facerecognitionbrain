@@ -12,6 +12,10 @@
 * Create the state in App.js for input.
 * Create FaceRecognition component and display image using API from [clarifi.com](https://docs.clarifai.com/api-guide/predict/images).
 
+* Add FaceDisplayBox by first calculating face corrdinates and set the box data as the App state and pass box data to FaceRecognition component and add div to draw boundary box + add css for the boundary box.
+* Add SignIn form from tachyons in Card and then use route as a state property to switch signIn and Home Page.
+* Similarly add register component and add logic to switch between different routes.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
